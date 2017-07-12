@@ -13,5 +13,5 @@
  */
 define('WP_USE_THEMES', true);
 
-/** Loads the WordPress Environment and Template Test Hirdesh*/
+/** Loads the WordPress Environment and Template First Change*/
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
